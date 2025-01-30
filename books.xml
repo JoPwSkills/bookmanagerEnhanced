@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <isbn>978-0743273565</isbn>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <isbn>978-0446310789</isbn>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <isbn>978-0451524935</isbn>
+    </book>
+</books>

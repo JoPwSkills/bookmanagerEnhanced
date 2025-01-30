@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0743273565"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978-0446310789"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978-0451524935"
+  }
+]
