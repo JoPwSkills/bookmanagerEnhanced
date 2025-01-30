@@ -1,0 +1,6 @@
+{
+  "jodeep": {
+    "password": "scrypt:32768:8:1$SHOwcxgfPZ4QO2kW$1da6c72c08bd358c21a62e9e02182675c0dd36dc39d1b8bae5fa8020a04530e260565fc3b75d0a1fefb47fd3795f85f2412dfce1f80b3caba2a95a037a35d7ce",
+    "role": "user"
+  }
+}
